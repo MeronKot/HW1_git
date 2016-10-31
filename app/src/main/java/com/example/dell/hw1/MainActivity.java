@@ -10,4 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void fuckingShit(){
+        String z = "fucking shit mother fucker";
+    }
 }
