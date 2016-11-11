@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HW1</string>
+    <string name="reminder"></string>
+    <string name="done"></string>
 </resources>
