@@ -33,7 +33,9 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/times"
         android:layout_alignParentRight="true"
-        android:text="@string/done"/>
+        android:text="@string/done"
+        android:onClick="done"/>
+
 
 
 
